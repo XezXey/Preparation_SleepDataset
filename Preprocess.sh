@@ -1,0 +1,22 @@
+#!/bin/sh
+python PreprocessData.py Subject01
+python PreprocessData.py Subject02
+python PreprocessData.py Subject03
+python PreprocessData.py Subject04
+python PreprocessData.py Subject05
+python PreprocessData.py Subject06
+python PreprocessData.py Subject07
+python PreprocessData.py Subject08
+python PreprocessData.py Subject09
+python PreprocessData.py Subject10
+python PreprocessData.py Subject11
+python PreprocessData.py Subject12
+python PreprocessData.py Subject13
+python PreprocessData.py Subject14
+python PreprocessData.py Subject15
+python PreprocessData.py Subject16
+python PreprocessData.py Subject17
+python PreprocessData.py Subject18
+python PreprocessData.py Subject19
+python PreprocessData.py Subject20
+python PreprocessData.py Subject21
